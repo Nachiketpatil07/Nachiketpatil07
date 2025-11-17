@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nachiket! 👋</h1>
 
 <p align="center">
-  <b>AI Engineering Student | Machine Learning | Deep Learning | CI/CD Automation |ADAS </b>
+  <b>AI Engineering Student | Machine Learning | Deep Learning | ADAS | CI/CD Automation | </b>
 </p>
 
 ---
