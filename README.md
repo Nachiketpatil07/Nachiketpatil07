@@ -9,7 +9,6 @@
 ## 🔹 About Me  
 I'm a Master's student in **AI Engineering of Autonomous Systems**, with a strong foundation in Python development, C++ fundamentals, and applied machine learning.  
 I enjoy building tools, experimenting with ML models, and working on algorithms that solve real-world engineering problems. 
-**.
 
 ---
 
