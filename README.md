@@ -27,14 +27,13 @@ My interests include **C++ systems programming, Python automation, embedded tool
 
 ## 🧰 Tech Stack  
 
-### 🔹 Programming | Systems
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </div>
 
-### 🔹 Embedded & Toolchains
+
 <div>
   <img src="https://img.shields.io/badge/GCC-FAF9F6?style=for-the-badge&logo=gnu&logoColor=black"/>
   <img src="https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white"/>
@@ -42,14 +41,14 @@ My interests include **C++ systems programming, Python automation, embedded tool
   <img src="https://img.shields.io/badge/RISC-V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
 </div>
 
-### 🔹 AI, ML & LLM Workflows
+
 <div>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
-### 🔹 Data & Automation
+
 <div>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -57,7 +56,7 @@ My interests include **C++ systems programming, Python automation, embedded tool
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </div>
 
-### 🔹 DevOps & CI/CD
+
 <div>
   <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -66,36 +65,6 @@ My interests include **C++ systems programming, Python automation, embedded tool
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🔹 AI-Based Software Testing & Validation Tool — Research Prototype
-- Developed an **AI-powered assistant** for code optimization and automated documentation  
-- Integrated **cross-compilation workflows** with GCC/Clang on ARM & RISC-V  
-- Built reproducible, CI-driven evaluation pipelines for LLM-based toolchains  
-
-**Tools:** Python · LLM APIs · GitLab CI · Docker · GCC · Clang  
-
----
-
-### 🔹 Q-Learning Agent for Autonomous Decision Simulation
-- Implemented a training framework analyzing convergence, reward shaping and stability  
-- Evaluated robustness across edge cases and environment perturbations  
-- Visualized learning patterns for interpretability  
-
-**Tools:** Python · NumPy · PyTorch · OpenAI Gym  
-
----
-
-### 🔹 Formula Student – Vehicle Chassis & Body Development (Hyperion Racing Team)
-- Designed and optimized chassis/body assembly for an EV race car  
-- Assisted in powertrain integration, telemetry and system compatibility tests  
-- Conducted cross-functional endurance and structural validation  
-
-**Tools:** CATIA V5 · MATLAB · Simulink · CAN Tools  
-
----
-
-## 📊 GitHub Stats  
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachiketpatil07&theme=tokyonight&hide_border=true" width="48%"/>
@@ -108,12 +77,6 @@ My interests include **C++ systems programming, Python automation, embedded tool
 
 ---
 
-## 🟩 Contribution Heatmap  
-<p align="center">
-  <img src="https://ghchart.rshah.org/Nachiketpatil07" alt="GitHub Contribution Chart" />
-</p>
-
----
 
 ## 💬 Quote I Live By  
 > *“A beautiful program is like a beautiful theorem: It does the job elegantly.”*  
