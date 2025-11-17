@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Nachiket! 👋</h1>
 
 <p align="center">
-  <b>AI & Software Engineering Student | Embedded Systems | CI/CD Automation | LLM-Assisted Development</b>
+  <b>AI Engineering Student | Machine Learning | Deep Learning | CI/CD Automation |ADAS </b>
 </p>
 
 ---
-
-## 🔹 About Me  
+ 
 ## 🔹 About Me  
 I'm a Master's student in **AI Engineering of Autonomous Systems**, with a strong foundation in Python development, C++ fundamentals, and applied machine learning.  
 I enjoy building tools, experimenting with ML models, and working on algorithms that solve real-world engineering problems. 
@@ -24,8 +23,6 @@ I enjoy building tools, experimenting with ML models, and working on algorithms 
   </a>
 </div>
 
----
-<h1 align="center">Hi, I'm Nachiket 👋</h1>
 
 ---
 
