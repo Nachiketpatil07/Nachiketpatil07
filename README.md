@@ -16,7 +16,7 @@ I enjoy building tools, experimenting with ML models, and working on algorithms 
 
 ## 🌐 Socials  
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/nachiketpatil077/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:patilnachiket77@gmail.com">
@@ -49,5 +49,4 @@ I enjoy building tools, experimenting with ML models, and working on algorithms 
 ---
 
 
-
-<p align="center">Made with ❤️ & Clean Code</p>
+</p>
